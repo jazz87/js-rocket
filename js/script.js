@@ -26,4 +26,4 @@ var car = {
 		};
 
 
-console.log('whats cooking good looking');
+console.log('"what's" cooking good looking');
