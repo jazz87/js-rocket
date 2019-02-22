@@ -32,6 +32,11 @@
 	width: 20px;
 	height: 100px;
 	background-color: blue;
+	transition: bottom 10000ms;
+}
+
+.rocket.flying{
+	bottom: 1000px;
 }
 
 a{
