@@ -1,5 +1,5 @@
 .left{
-	background-color: aquamarine;
+	background-color: #0DBBB6;
 	position: fixed;
 	width: 50%;
 	height: 100%;
@@ -17,7 +17,7 @@
 }
 
 .ground{
-	background-color: green;
+	background-color: #eeeeee;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -29,9 +29,10 @@
 	position: absolute;
 	left: 50%;
 	bottom: 20px;
-	width: 20px;
-	height: 100px;
-	background-color: blue;
+	width: 180px;
+	height: 180px;
+	margin-left: -90px;
+	background: url('../img/rocket.png') no-repeat 0 0;
 	transition: bottom 10000ms;
 }
 
